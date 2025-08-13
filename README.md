@@ -20,11 +20,6 @@ It shows **Total Sales**, **Target Hit %**, and **Away from Target %**, helping 
 - Shows insights with clear visual charts  
 
 
-## 📂 Files in This Repository
-- `Sales_KPI_Dashboard.xlsx` – The Excel file with dashboard and macros  
-- `README.md` – This project description  
-- `dashboard_screenshot.png` – Screenshot of the dashboard  
-
 ## 🚀 How to Use
 1. Open the Excel file.  
 2. Enable macros.  
